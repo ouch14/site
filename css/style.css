@@ -1,0 +1,124 @@
+h1{
+    color:#fff;
+    padding-top: 20px;
+    font-size:100px;
+    line-height:85px;
+    padding-bottom:40px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+li{ 
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+ol{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.copyright a:hover{
+    color:#fff;
+    background-color: #0fb0d3;
+}
+.copyright{
+    color:#fff;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.submit a:hover{
+    color:#ddd;
+    border: 1px;;
+    background-color:#0fb0d3;
+}
+.p { 
+    font-weight: 300px;
+    margin: 0;
+    font-size: 15px;
+    line-height: 24px;
+}
+.titlepage{
+    padding:20px;
+    text-align: right;
+}
+
+.Gallery_text p{
+    font-size: 17px;
+    line-height: 35px;
+    font-weight: 400px;
+    text-align: right;
+    color:#181716;
+}
+#gallery {
+    background-color:#ececec
+    padding: 100px 0px 100px 0px;
+}
+.more_button a{
+    font-size:16px;
+    border:1px#000;
+    color:#fff;
+    padding: 9px 0px;
+    max-width: 171px;
+    width:100%;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.more_button a:hover{
+    border:1px#0ed1f0;
+    color:#fff;
+}
+.About_box a{
+    border: 1px #000;
+    border-color:#000;
+    color:#fff;
+    padding: 9px 0px 9px 0;
+    max-width: 171;
+    width:100% 
+    text-alight center;
+    border-radius: 30px;
+}
+#footer{
+    margin-top:90px;
+    background-color:#161616;
+}
+.news a{
+    padding:35px 0px 50px 0px;
+    width:71%;
+}
+.social_link a{ 
+    font-size:25px;
+    color:#161616;
+    background-color:#0fb0d3;
+    border-radius:80px;
+    width:40px;
+    height:41px;
+}
+.menu-area-main a:hover{
+    color:#fff;
+    background-color:#0ed1f0;
+    border-radius:17px; 
+}
+.text-bg p{
+    font-size:17px;
+    color:#fff;
+    line-height:30px;
+    padding-bottom: 50px;
+    font-size: 400;
+}
+.text-bg span{
+    font-size:80px;
+    height:80px;
+    color:#0fc9da;
+    text-transform:uppercase;
+}
+.slider_section a{
+    padding-top:268px;
+}
+
